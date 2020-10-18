@@ -21,6 +21,7 @@ The election that was analyzed covered three counties, Jefferson, Denver, and Ar
   - Winner: Diana DeGette
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
+---
 ![PyPoll Challenge Command Line Reults](Resources/Election_reults_command_line.png)
 ![PyPoll Challenge Reults Text File](Resources/Election_analysis_results.png)
 ## Election Audit Summary
