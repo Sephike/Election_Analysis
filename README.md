@@ -17,5 +17,6 @@ The election that was analyzed covered three counties, Jefferson, Denver, and Ar
   - Winner: Diana DeGette
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
-    Election Audit Summary
-        There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
+    
+## Election Audit Summary
+This script can help to save time and money, it does what would take days maybe even weeks seconds or minutes to do. Not only does this script provide the information shown above but also can be altered in the future for more important elections, it can be changed to also determine political party if given the information in the datasheet and show how much of the county voted for which parties. The script can also be given the honor of determining the winner of the presidental election by adding the electoral college to the script this would require a detailed datasheet but could save so much time and money and give very accurate information.
