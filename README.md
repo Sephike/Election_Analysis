@@ -12,8 +12,8 @@ The election that was analyzed covered three counties, Jefferson, Denver, and Ar
 - Charles Casper Stockham: 23.0% (85,213)
 - Diana DeGette: 73.8% (272,892)
 - Raymon Anthony Doane: 3.1% (11,606)
-- Winner: Diana DeGette
-- Winning Vote Count: 272,892
-- Winning Percentage: 73.8%
+  - Winner: Diana DeGette
+  - Winning Vote Count: 272,892
+  - Winning Percentage: 73.8%
     Election Audit Summary
         There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
