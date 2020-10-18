@@ -5,21 +5,15 @@ The election that was analyzed covered three counties, Jefferson, Denver, and Ar
 ## Election Audit Results
 ### Total Votes: 369,711
 - County Votes:
-- Jefferson: 10.5% (38,855)
-                - Denver: 82.8% (306,055)
-                - Arapahoe: 6.7% (24,801)
--------------------------
-Largest County Turnout: Denver
--------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
-
-
+  - Jefferson: 10.5% (38,855)
+  - Denver: 82.8% (306,055)
+  - Arapahoe: 6.7% (24,801)
+- Largest County Turnout: Denver
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
+- Winner: Diana DeGette
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
     Election Audit Summary
         There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
